@@ -1,0 +1,33 @@
+.body {
+    scroll-behavior:smooth;
+    background-color: rgb(228, 234, 255);
+}
+
+.hero-image{  
+    color:rgb(0, 0, 0);
+    padding:50px 5px;
+    text-align:center;
+    background:linear-gradient(to right,#00bfff7d,#00fbff83);
+}
+
+.hero h1{
+    font-size:3rem;
+    font-weight:bold;
+}
+
+.hero p{
+    font-size:1.2rem;
+    margin-top:15px;
+}
+
+section{
+    padding: 40px;
+}
+
+.table {
+    text-align: center;
+}
+
+.img-fluid {
+    margin-right: 30px;
+}
