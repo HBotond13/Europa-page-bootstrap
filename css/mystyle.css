@@ -31,3 +31,7 @@ section{
 .img-fluid {
     margin-right: 30px;
 }
+
+.card:hover {
+    transform: scale(1.05);
+}
